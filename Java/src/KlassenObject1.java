@@ -22,6 +22,7 @@ public class KlassenObject1 {
 
     //Methoden
 
+
     public static void bellen() {
         System.out.println("bellen");
     }
