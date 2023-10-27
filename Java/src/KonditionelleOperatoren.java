@@ -27,7 +27,7 @@ public class KonditionelleOperatoren {
         System.out.println(i < 4? "kleiner als 4": i >4? "Größer als 4": "Gleich 4" );
         //              boolean?     true      false/boolean?   true    false
 
-    
+
 
 
 
