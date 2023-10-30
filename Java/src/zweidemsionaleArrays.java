@@ -63,7 +63,7 @@ public class zweidemsionaleArrays {
 
         for (int i = 0; i < multTable.length; i++) {
             for (int i1 = 0; i1 < multTable.length; i1++) {
-                System.out.print(multTable[i][i1]+ "\t");  //schnell sout erstellten multTable.sout 
+                System.out.print(multTable[i][i1]+ "\t");  //schnell sout erstellten multTable.sout
             }
             System.out.println();
         }
