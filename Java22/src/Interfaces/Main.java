@@ -17,6 +17,6 @@ public class Main {
             hund.bellen();
             hund.fresse();
         }
-       
+
     }
 }
