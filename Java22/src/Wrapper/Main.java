@@ -39,7 +39,7 @@ public class Main {
 //        Grundsätzlich immer primitive Datentype
 //
 //        Wrapper-Klassen
-//            Listen
+//            Collection.Listen
 //            FrameWorks
 //            Werte die in DB speichern
 
