@@ -12,7 +12,7 @@ public class Main2 {
 
         GenKlass <String, Double> genString = new GenKlass<>("asdf",12.31);
 //        genString.setObjekt(1321);
-        
+
         genString.setObjekt("243fas");
         System.out.println(genString.getObjekt());
     }
